@@ -64,8 +64,8 @@ footer {
 }
 
 .logo {
-  margin-top: 3%;
-  margin-left: 5%;
+  margin-top: 2%;
+  margin-left: 4%;
 }
 
 .logo img {
@@ -102,8 +102,8 @@ nav {
 .icon {
   display: flex;
   float: right;
-  margin-top: -0.8%;
-  margin-right: 6.5%;
+  margin-top: -1.5%;
+  margin-right: 5%;
 }
 
 .icon a {
